@@ -2,3 +2,4 @@
 Jordi Matamala ARA SIII
 Hola bon dia, Stefan Jordi Giurgiu
 Hola Mireia
+Hola Oriol
